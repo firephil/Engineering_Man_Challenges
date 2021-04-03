@@ -1,4 +1,4 @@
-## Engineering Man Challenges @ emkc.org using Haskell
+## Engineering Man Challenges @ https://emkc.org using Haskell
 
 ### 1. Reverse a String given as argument
 
